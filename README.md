@@ -2,7 +2,7 @@
 
 CuttleBot is a simple drawing robot for the BBC Micro:bit.
 
-**1. The Cuttlebot**
+**1. The CuttleBot**
 
 ![cuttlebot-3](images/cuttlebot-3.jpeg)
 
@@ -13,6 +13,7 @@ CuttleBot is a simple drawing robot for the BBC Micro:bit.
 **Other Parts**
 
 1 x Kitronik CREATE servo board (£9.42)
+
 https://kitronik.co.uk/products/5673-kitronik-simple-servo-control-board-for-bbc-micro-bit
 
 2 x 360-degree servos (approx. £2 each)
@@ -34,4 +35,5 @@ https://kitronik.co.uk/products/5673-kitronik-simple-servo-control-board-for-bbc
 **Wheels Option 2**
 
 2 x Servo wheels (£1.20 each)
+
 https://shop.pimoroni.com/products/wheel-for-continuous-rotation-servo?variant=53509783060859
