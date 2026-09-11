@@ -1,12 +1,12 @@
-## CuttleBot Drawing Robot ##
+## Cuttlebot Drawing Robot ##
 
 Beta Releast 22nd August 2026
 
 Https://www.interactdigitalarts.uk/projects/cuttlebot
 
-CuttleBot is a highly customisable drawing robot for the BBC Micro:bit. It aims to be low-cost, flexible and easy to build. It has a 3D-printed body and uses easy-to-obtain components, with the goal of producing a kit of parts that costs around £15, excluding the Micro:bit itself. For now, you will need to source the parts yourself. If you are already a maker, you may already have many of them.
+Cuttlebot is a highly customisable drawing robot for the BBC Micro:bit. It aims to be low-cost, flexible and easy to build. It has a 3D-printed body and uses easy-to-obtain components, with the goal of producing a kit of parts that costs around £15, excluding the Micro:bit itself. For now, you will need to source the parts yourself. If you are already a maker, you may already have many of them.
 
-**1. The CuttleBot**
+**1. The Cuttlebot**
 
 ![cuttlebot-3](photographs/cuttlebot-3.jpeg)
 
