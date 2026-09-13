@@ -1,6 +1,6 @@
 # Cuttlebot Drawing Robot #
 
-Beta Release 13nth September 2026
+First Public Beta Release 13nth September 2026
 
 Https://www.interactdigitalarts.uk/projects/cuttlebot
 
